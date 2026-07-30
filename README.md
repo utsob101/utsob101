@@ -1,5 +1,5 @@
 ![MasterHead](https://media.licdn.com/dms/image/D5616AQGHC3SUj8dmSw/profile-displaybackgroundimage-shrink_350_1400/0/1722510164258?e=1727913600&v=beta&t=5pMeoaj4x4E61p_FNz-LXfqqaAOhuZ0IiI38XosM_5A)
-<h1 align="center">Hi 👋, I'm Utsob</h1>
+<h1 align="center">Hi 👋, I'm Muntasir Ayan Utsob</h1>
 <h3 align="center">A Passionate Full Stack Web Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
