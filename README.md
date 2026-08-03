@@ -56,9 +56,10 @@
     </a>
 </p>
 <br />
+<br />
 <h3 align="left">GitHub Trophies:</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muntasir-utsob&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15&column=7" alt="GitHub Trophies" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=muntasir-utsob&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15&column=7&v=2" alt="GitHub Trophies" width="100%" />
 </p>
 
 <br /><br /><br /><br /><br /><br /><br /><br />
