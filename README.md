@@ -47,8 +47,12 @@
 <h3 align="left">GitHub Stats:</h3>
 
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muntasir-utsob&layout=compact&theme=dark&hide_border=true&v=1" alt="Top Languages" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=muntasir-utsob&show_icons=true&theme=dark&hide_border=true&v=1" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muntasir-utsob&theme=tokyonight" alt="GitHub Summary Card" width="100%" />
+</p>
+<h3 align="left">GitHub Trophies:</h3>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=muntasir-utsob&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=6" alt="GitHub Trophies" width="100%" />
 </p>
 
 <br /><br /><br /><br /><br /><br /><br /><br />
