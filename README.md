@@ -64,9 +64,8 @@
   <img src="https://ghchart.rshah.org/58a6ff/muntasir-utsob" alt="Full Year GitHub Chart" width="100%" />
 </p>
 <br />
-<br />
-<h3 align="left">My Lifetime GitHub Stats:</h3>
+<h3 align="left">My Lifetime GitHub Metrics:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muntasir-utsob&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&v=3" alt="Lifetime Stats" />
+  <img src="https://metrics.lecoq.io/muntasir-utsob?template=classic&config.timezone=Asia%2FDhaka" alt="GitHub Metrics" width="100%" />
 </p>
 <br /><br /><br /><br /><br /><br /><br /><br />
