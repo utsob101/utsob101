@@ -58,9 +58,9 @@
 <br />
 <br />
 <br />
-<h3 align="left">My GitHub Activity:</h3>
+<br />
+<h3 align="left">My Full Year GitHub Contributions:</h3>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muntasir-utsob&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true" alt="Activity Graph" width="100%" />
+  <img src="https://ghchart.rshah.org/58a6ff/muntasir-utsob" alt="Full Year GitHub Chart" width="100%" />
 </p>
-
 <br /><br /><br /><br /><br /><br /><br /><br />
