@@ -11,9 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@utsob1010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@utsob1010" height="30" width="40" /></a>
+<a href="https://twitter.com/muntasir_utsob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@utsob1010" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/utsob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utsob" height="30" width="40" /></a>
-<a href="https://fb.com/cadet.utsob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cadet.utsob" height="30" width="40" /></a>
+<a href="https://www.facebook.com/muntasir.utsob/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cadet.utsob" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/mr_utsob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mr_utsob" height="30" width="40" /></a>
 </p>
 
