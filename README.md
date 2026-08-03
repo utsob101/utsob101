@@ -55,17 +55,13 @@
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Aspiring+SQA+Engineer;Problem+Solver;Passionate+about+Technology;Always+Learning+New+Things" alt="Typing SVG" />
     </a>
 </p>
-<br />
-<br />
-<br />
-<br />
+<br/>
 <h3 align="left">My Full Year GitHub Contributions:</h3>
 <p align="center">
-  <img src="https://ghchart.rshah.org/58a6ff/muntasir-utsob" alt="Full Year GitHub Chart" width="100%" />
+  <img src="https://ghchart.rshah.org/8a2be2/muntasir-utsob" alt="Full Year GitHub Chart" width="100%" />
 </p>
-<br />
+<br/>
 <h3 align="left">My Lifetime GitHub Metrics:</h3>
 <p align="center">
   <img src="https://metrics.lecoq.io/muntasir-utsob?template=classic&config.timezone=Asia%2FDhaka" alt="GitHub Metrics" width="50%" />
 </p>
-><br /><br /><br />
