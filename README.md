@@ -41,9 +41,6 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 </p>
-
-<br />
-
 <br />
 <h3 align="left">My GitHub Activity:</h3>
 <p align="center">
@@ -63,5 +60,5 @@
 <br/>
 <h3 align="left">My Lifetime GitHub Metrics:</h3>
 <p align="center">
-  <img src="https://metrics.lecoq.io/muntasir-utsob?template=classic&config.timezone=Asia%2FDhaka" alt="GitHub Metrics" width="50%" />
+  <img src="https://metrics.lecoq.io/muntasir-utsob?template=classic&config.timezone=Asia%2FDhaka" alt="GitHub Metrics" width="70%" />
 </p>
