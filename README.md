@@ -56,7 +56,3 @@
 </p>
 
 <br /><br /><br /><br /><br /><br /><br /><br />
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muntasir-utsob&theme=dark&hide_border=true&v=1" alt="GitHub Streak" />
-</p>
