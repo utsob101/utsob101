@@ -44,4 +44,21 @@
 
 <br />
 
+<br />
+<h3 align="left">My GitHub Activity:</h3>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muntasir-utsob&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true" alt="Activity Graph" width="100%" />
+</p>
+<br />
+<p align="center">
+    <a href="https://github.com/muntasir-utsob">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Aspiring+SQA+Engineer;Problem+Solver;Passionate+about+Technology;Always+Learning+New+Things" alt="Typing SVG" />
+    </a>
+</p>
+<br />
+<h3 align="left">GitHub Trophies:</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=muntasir-utsob&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15&column=7" alt="GitHub Trophies" width="100%" />
+</p>
+
 <br /><br /><br /><br /><br /><br /><br /><br />
