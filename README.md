@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=200&section=header&text=Muntasir%20Ayan%20Utsob&fontSize=42&fontColor=58a6ff&animation=fadeIn&subtext=Aspiring%20SQA%20Engineer%20|%20Problem%20Solver&subFontSize=18&subFontColor=8b949e" alt="Header Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:091e3a,100:2f80ed&height=220&section=header&text=Muntasir%20Ayan%20Utsob&fontSize=40&fontColor=ffffff&animation=twinkle&subtext=Aspiring%20SQA%20Engineer%20|%20Computer%20Science%20%26%20Engineering&subFontSize=18&subFontColor=e0e0e0" alt="CSE Header Banner" width="100%" />
 </p>
 
 <img align="right" alt="Coding GIF" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -46,13 +46,17 @@
 
 <h3 align="left">GitHub Stats:</h3>
 
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muntasir-utsob&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=muntasir-utsob&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-</p>
+<table border="0" width="100%">
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muntasir-utsob&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="100%" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=muntasir-utsob&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="100%" />
+    </td>
+  </tr>
+</table>
 
-<br /><br /><br /><br /><br /><br /><br /><br />
-
 <p align="center">
-  <img src="https://git-streak-stats.herokuapp.com/?user=muntasir-utsob&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muntasir-utsob&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
