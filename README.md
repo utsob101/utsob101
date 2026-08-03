@@ -1,18 +1,17 @@
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/D5616AQGHC3SUj8dmSw/profile-displaybackgroundimage-shrink_350_1400/0/1722510164258?e=1727913600&v=beta&t=5pMeoaj4x4E61p_FNz-LXfqqaAOhuZ0Ii38XosM_5A" alt="MasterHead" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=200&section=header&text=Muntasir%20Ayan%20Utsob&fontSize=42&fontColor=58a6ff&animation=fadeIn&subtext=Aspiring%20SQA%20Engineer%20|%20Problem%20Solver&subFontSize=18&subFontColor=8b949e" alt="Header Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Muntasir Ayan Utsob</h1>
-<h3 align="center">Aspiring SQA Engineer</h3>
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding GIF" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=muntasir-utsob&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
+  <img src="https://komarev.com/ghpvc/?username=muntasir-utsob&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" /> 
 </p>
 
 - 🌱 I’m currently learning **Problem Solving**
 - 📫 How to reach me: **contactutsob@gmail.com**
+
+<br />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -48,10 +47,12 @@
 <h3 align="left">GitHub Stats:</h3>
 
 <p align="center">
-  <img align="left" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=muntasir-utsob&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=muntasir-utsob&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muntasir-utsob&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=muntasir-utsob&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
 </p>
 
+<br /><br /><br /><br /><br /><br /><br /><br />
+
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muntasir-utsob&theme=default" alt="GitHub Streak" />
+  <img src="https://git-streak-stats.herokuapp.com/?user=muntasir-utsob&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
